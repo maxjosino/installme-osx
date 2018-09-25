@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
-
 brew install git
 brew install git-flow
 brew install nvm
-brew install mongodb
 brew install mas
 
 # Install Cask
