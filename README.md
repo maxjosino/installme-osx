@@ -2,7 +2,7 @@
 
 This is juts my personal scripts to help me setup a new osx machine.
 
-To start a new setup, simply run:
+To start a new setup, simply run on your Terminal:
 
 ```shell
 bash -c "`curl -L https://raw.githubusercontent.com/maxjosino/installme-osx/master/setup.sh`"
