@@ -1,6 +1,6 @@
-# Setup a new computer can be a pain when you need to get things done faster. This script helps you to get installed most of the relevant apps for Designers on mac OS.
+# Setup a new computer can be a pain when you need to get things done faster.
 
-This is juts my personal scripts to help me setup a new osx machine.
+This script helps you to get installed most of the relevant apps for Designers on mac OS.
 
 To start a new setup, simply run on your Terminal:
 
