@@ -1,3 +1,7 @@
+# Install homebrew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+
 #!/usr/bin/env bash
 brew install git
 brew install git-flow
@@ -5,7 +9,7 @@ brew install nvm
 brew install mas
 
 # Install Cask
-brew install caskroom/cask/brew-cask
+brew cask
 brew tap caskroom/versions
 
 # Install native apps
@@ -14,10 +18,10 @@ brew cask install figma 2> /dev/null
 brew cask install firefox 2> /dev/null
 brew cask install flux 2> /dev/null
 brew cask install google-chrome 2> /dev/null
-brew cask install google-drive 2> /dev/null
 brew cask install sketch 2> /dev/null
 brew cask install spotify 2> /dev/null
 brew cask install slack 2> /dev/null
+brew cask install zeplin 2> /dev/null
 
 # Install fonts
 brew tap caskroom/fonts
